@@ -14,7 +14,7 @@ recommended to install Yarn via our packages instead.
 > **Note:** Installation of yarn via npm is generally not recommended. 
 >
 > It is highly recommended that you install Yarn through the
-> installation method best suited to your operating system. This guarantees that you receive the exact dependencies that we expect yarn to have.
+> installation method best suited to your operating system. This guarantees that you receive the exact dependencies that we expect yarn to have, since installation of dependencies in older versions of npm can be non-deterministic.
 > Also, when installing system-wide apps, it's ideal to have signed packages.
 > Neither npm nor yarn perform any 
 > integrity checks other than a basic SHA1 hash, which is a security risk.
